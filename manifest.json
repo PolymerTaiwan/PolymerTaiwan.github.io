@@ -1,0 +1,6 @@
+{
+  "name": "polymer-tw-website",
+  "short_name": "polymer-tw-website",
+  "start_url": "/",
+  "display": "standalone"
+}
